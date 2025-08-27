@@ -1,8 +1,8 @@
 const settings = {
   packname: ' CYBER-TECH Bot',
   author: '‎',
-  botName: " CYBER-TECH BOT",
-  botOwner: ' THE GAME', // Your name
+  botName: " ‎☘🆃︎🅴︎🅻︎🅺︎🅸︎🅽︎🅶︎☘ BOT",
+  botOwner: ' ‎🇧‌🇴‌🇾‌🇰‌🇦‌ 🇽‌🇩‌', // Your name
   ownerNumber: ' 263785553857', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
